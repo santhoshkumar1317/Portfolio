@@ -11,7 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Santhosh kumar </span>
             from <span className="purple"> Tamil nadu, India.</span>
             <br />
-            I am currently employed as a software developer at Astromeda space.
+            I am currently <span className="purple">Co-founder</span> at <span className="purple">Neuraa Intelligent Systems Pvt Ltd </span> (Jan 2026 - Present).
+            <br />
+            Previously, I worked as a <span className="purple">Software Developer</span> and held <span className="purple">Operations and Execution</span> experience as a <span className="purple">Team Lead</span> at <span className="purple">Astromeda Space</span> (until Dec 2025).
             <br />
             I have completed my Bachelor's degree at Government College Of
             Engineering, Thanjavur.

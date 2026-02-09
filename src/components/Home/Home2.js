@@ -22,6 +22,9 @@ function Home2() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
+              <br />
+              Currently, I am a <b className="purple">Co-founder</b> @ <b className="purple">Neuraa Intelligent Systems Pvt Ltd.</b>
+              <br />
               <br />I am fluent in classics like
               <i>
                 <b className="purple"> Javascript. </b>

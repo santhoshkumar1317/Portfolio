@@ -18,21 +18,21 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               title="Astromon"
-              description="This is a health monitoring project at Astromeda Space Pvt. Ltd. for the Department of Telecommunication (DOT), where we monitor ECG and PPG data. It is a healthcare product. I worked fully on the frontend using React and was partially involved in the backend using Node.js."
+              description="This is a health monitoring project at Astromeda Space Pvt. Ltd. for the Department of Telecommunication (DOT), where we monitor ECG and PPG data. As a Team Lead, I oversaw the operation and execution while working fully on the frontend using React and participating in backend development with Node.js."
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               title="Astrovest"
-              description="This is a health monitoring project at Astromeda Space Pvt. Ltd. for the Indian Air Force (IAF), where we monitor ECG and PPG data. It is a healthcare product and a desktop application that runs fully locally using Docker. I worked fully on the frontend using React and was partially involved in the backend using Node.js."
+              description="A health monitoring project for the Indian Air Force (IAF) at Astromeda Space, focused on ECG and PPG data monitoring. In my role as Team Lead, I managed the end-to-end operation and execution of this Docker-based desktop application, leading the React frontend development and Node.js backend integration."
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
               title="ADDC"
-              description="This software is integrated with a Raspberry Pi display, used to control trays that automatically open and close for dispensing. It was developed for a medical-purpose automatic drug dispenser cabinet at Astromeda space pvt ltd. The frontend was built using Vue, the backend operations were handled with Node.js, PostgreSQL was used for database management, and Docker for deployment. The software controls the opening of medicine trays and was implemented locally using Electron, ensuring a smooth and responsive user experience."
+              description="Integrated with a Raspberry Pi display for medical drug dispensing, I led the team in the development and operation of this software at Astromeda Space. Built with Vue, Node.js, PostgreSQL, and Electron, I ensured smooth execution and deployment using Docker for this local medical automation system."
             />
           </Col>
 
@@ -53,7 +53,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               title="My Portfolio"
-              description="This portfolio project showcases my skills in frontend development using React. It includes detailed information about my work experience and highlights the technologies I've utilized in my projects. Additionally, it features my updated resume, providing a comprehensive overview of my professional background and expertise."
+              description="This portfolio project showcases my skills in frontend development using React. It includes detailed information about my work experience and highlights the technologies I've utilized in my projects, reflecting my professional journey and expertise."
             />
           </Col>
         </Row>
